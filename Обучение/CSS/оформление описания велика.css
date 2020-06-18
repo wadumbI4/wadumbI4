@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+}
+div {
+  
+}
 .content {
 	background-color: lightgreen;
 	
@@ -8,4 +14,11 @@ li {
 
 .technical {
 	background-color: Aqua;
+}
+h1, h2 {
+  text-decoration: underline;
+}
+.byke {
+  color: Fuchsia;
+  border: 5px double Goldenrod;
 }

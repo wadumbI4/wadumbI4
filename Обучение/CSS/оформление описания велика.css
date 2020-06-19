@@ -24,4 +24,5 @@ h1, h2 {
 .byke {
   color: Fuchsia;
   border: 5px double Goldenrod;
+	border-radius: 15%;
 }
